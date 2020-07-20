@@ -17,7 +17,7 @@
   display: flex;
   flex-flow: column nowrap;
   font-family: 'Spectral', serif; 
-  background-image: url(https://www.educo.org/Educo/media/Imagenes/Blog/9-cosas-que-los-padres-deberian-saber-sobre-League-of-Legends-destacada.jpg);
+  background:black;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
